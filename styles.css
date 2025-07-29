@@ -35,7 +35,7 @@ body {
 
 .grid-item button {
   padding: 0.5rem 1rem;
-  background-color: #007bff;
+  background-color: #07bb70;
   color: white;
   border: none;
   border-radius: 4px;
@@ -44,7 +44,7 @@ body {
 }
 
 .grid-item button:hover {
-  background-color: #0056b3;
+  background-color: #039c5f;
 }
 
 .output {
